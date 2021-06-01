@@ -5,7 +5,7 @@ This is project is going to help us to master github flow and get used with lint
 
 ## Materials required for validation
 
-- follow the link below for that:
+- follow this link :
   https://github.com/microverseinc/linters-config/tree/master/html-css
 
 ## Built With
@@ -18,7 +18,7 @@ This is project is going to help us to master github flow and get used with lint
 To get a local copy up and running follow these simple example steps.
 
 Use this command to have the copy of the project in your Current directory
--  git https://github.com/moise10r/Hello_Microverse.git
+-  git clone https://github.com/moise10r/Hello_Microverse.git
 
 ## Authors
 
