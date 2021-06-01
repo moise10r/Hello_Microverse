@@ -5,11 +5,8 @@ This is project is going to help us to master github flow and get used with lint
 
 ## Materials required for validation
 
-- npm install --save-dev hint@6.x
-- npx hint .
-- npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x       stylelint-csstree-validator@1.x
-
-
+- follow the link below for that:
+  https://github.com/microverseinc/linters-config/tree/master/html-css
 
 ## Built With
 
@@ -21,7 +18,7 @@ This is project is going to help us to master github flow and get used with lint
 To get a local copy up and running follow these simple example steps.
 
 Use this command to have the copy of the project in your Current directory
--  git clone git@github.com:moise10r/Hello_World.git.
+-  git https://github.com/moise10r/Hello_Microverse.git
 
 ## Authors
 
@@ -46,7 +43,3 @@ Give a ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
